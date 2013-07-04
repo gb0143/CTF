@@ -1,0 +1,7 @@
+src - all code
+  tests - any tests for understanding wxruby
+res
+  music
+  images
+
+	

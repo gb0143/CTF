@@ -1,0 +1,18 @@
+How to Start the game:
+  from the capturetheflag directory do the command:
+    ruby src/main.rb
+
+How To Play:
+  Be the first player to grab the flag.
+  Tag three of the four corners with the flag.
+  Grab the flag by standing on top of it.
+  There is no time limit.
+
+Controls:
+  Press each key one time to move one tile
+
+  Player 1:
+  WASD for up, left, down, right
+
+  Player2:
+  up, left, down, and right arrow keys

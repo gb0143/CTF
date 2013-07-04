@@ -1,0 +1,31 @@
+To Do List.
+
+[x] Make the corners change color when the player steps on them
+[x] Make the game end when a player has stepped on three corners
+[x] Since the game class deals with input, give the game class the 
+   ability to call the draw functions itself whenever there is a new
+   event.
+[] Sound effects?
+[] Make some sort of How-to for the user to see how to play the game.
+   (This could involve a tutorial where the user is forced to press certain
+   buttons)
+[] Make blocks prevent users from standing in that place
+    move function will have to test the x, y location and see if there is a
+	block there before
+	it validates move.
+	The map will be hard coded.
+
+[] Comment functions, clean code.
+[] Figure out Ruby usage of underscores and camelCase for 
+    variables and functions and modify code accordingly.
+	
+[] Make a map loader (We can manually populate the list of maps to select)
+[] Or make maps randomly generate!
+
+[x] Make some sort of end-game sequence.
+
+[X] Make the main menu open the app.
+I assume this will require putting the main menu into our main.rb.
+
+In the Project Description I read that we should have images EVERYWHERE so 
+we should spice up our main menu.
